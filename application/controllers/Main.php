@@ -305,7 +305,7 @@ function assignto()
       
         error_reporting(0);
         $username = 'kudam775';
-        $token = '1da84a863cbf36834299aa4b38900540';
+        $token = '';
         $bulksms_ws = 'http://portal.bulksmsweb.com/index.php?app=ws';
         $destinations = $sendto;
          $link =  anchor("http://senbot.co.zw/main/job_full_details/$val->jobcardno", 'Click');
@@ -332,7 +332,7 @@ function assignto()
       'smtp_port' => 587,
      // 'smtp_user' => 'sendem@cargocarriers.co.zw', // change it to yours
       'smtp_user' =>  'senbotco@senbot.co.zw',
-      'smtp_pass' => '5L8ory47Qy', // change it to yours
+      'smtp_pass' => '', // change it to yours
    'mailtype' => 'html',
       'charset' => 'iso-8859-1',
       'validation' => TRUE
