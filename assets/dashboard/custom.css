@@ -1,0 +1,85 @@
+.panels_title{
+	font-size: 12pt;
+
+}
+.menu-links
+{
+	font-size: 12pt;
+
+}
+section{
+	
+	margin-left: 0%;
+	
+	width: 100%;
+	height: inherit;
+	margin-top: -40%;
+	
+
+}
+.alert{
+	font-size: 10pt;
+	font-weight: bold;
+
+}
+/**********************REPAIRS PAGE**************************/
+#faults_comments_area
+{
+	background-color: #E1E1E1;
+	width:60%;
+	margin-left:20%;
+	font-size:12pt;
+	font-style: italic;
+	color: #2A7FFF;
+}
+select {
+  font-size: 150px;
+}
+
+tr:nth-child(even) 
+{
+    background-color: #AAD4FF;
+}
+tr{
+    text-align:center;
+    	height: 20px;
+
+}
+thead 
+{
+    background-color: #0080D5;   font-weight: bold;text-align: center;
+    color: white;
+}
+td{
+	width: 14.2%;
+	font-family: times new roman;
+	font-size: 12pt;
+	height: 40px;
+}
+.pagination a,.pagination strong
+{
+    background :#e3e3e3;padding-left:20px;text-decoration: none;border:1px solid #cae9c9;
+    margin-left: 10%;
+    
+}
+.pagination strong, .pagination a:hover
+{
+  font-weight: normal; 
+    
+}
+.pagination{
+	background-color: blue;
+}
+/**********************END REPAIRS PAGE**************************/
+
+.breadcrumbmenu{
+	font-size: 12pt;
+	float: right;
+	background-color: transparent;
+}
+
+#submit{
+	width: 30%;
+	height: 30px;
+	font-style: 12pt;
+}

@@ -1,0 +1,22 @@
+body{
+   
+ 
+    /*background-image: url(<?php echo base_url('../img/Sabot.png');?>);*/
+  
+    background: url('/img/Sabot.png');
+    background-repeat: no-repeat;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+ background-attachment: fixed;
+ /** filter: blur(8px);**/
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+   
+}
