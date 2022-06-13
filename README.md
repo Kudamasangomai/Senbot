@@ -1,7 +1,7 @@
 <div align="left">
 
 
-# help desk System
+# Help desk System
   
  An online helpdesk system using Codeigniter
 
