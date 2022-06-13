@@ -3,11 +3,17 @@
 
 # help desk System
   
- An online helpdesk system using <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" title="Codeigniter" alt="Codeigniter" width="100" height="30"/>.
+ An online helpdesk system using Codeigniter
 
 
 </div>
 <div>
- Assigns user to created jobs.<br/>
-show most repaired truck and most created tasks.
+	<ul>
+		<li>  Assigns user to created jobs</li>
+			<li>  show most repaired truck and most created tasks.</li>
+			<li>  Sends email and sms to assigned tech</li>
+		
+	</ul>
+
+
 </div
